@@ -11,7 +11,7 @@ This edition is a complete rewrite in simple, formal English, with custom diagra
 | Format | Link |
 |---|---|
 | PDF (recommended) | [LPIC-3 Exam 303-300 Security.pdf](LPIC-3%20Exam%20303-300%20Security.pdf) |
-| Comment / suggest edits | [Google Docs version](https://docs.google.com/document/d/1xa_ckl9OyPOMvDGUh3lGZX1IpUVZXVtYjW2_jaTI3ik/edit?usp=sharing) |
+| Comment / suggest edits | [Google Docs version](https://docs.google.com/document/d/1gKlkCa8Y_hycD1HALCXl9WPW80tC7m29XI67GIIlljM/edit?usp=sharing) |
 | First Edition (archived) | [Release v1.0](../../releases/tag/v1.0) |
 
 The PDF has clickable bookmarks in the side panel and a clickable table of contents.
@@ -59,7 +59,7 @@ The book will continue to be updated in future editions, and anybody is welcome 
 
 - Report errors or suggest improvements by opening an [issue](../../issues).
 - The following link is provided for comments; for permission to edit the content, please contact me (o.zeynalpour@gmail.com):
-  [Comment document (Google Docs)](https://docs.google.com/document/d/1xa_ckl9OyPOMvDGUh3lGZX1IpUVZXVtYjW2_jaTI3ik/edit?usp=sharing)
+  [Comment document (Google Docs)](https://docs.google.com/document/d/1gKlkCa8Y_hycD1HALCXl9WPW80tC7m29XI67GIIlljM/edit?usp=sharing)
 
 ## Disclaimer
 
