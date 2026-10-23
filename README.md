@@ -1,18 +1,22 @@
 # LPIC-3 Exam 303-300: Security — Study Guide
 
+**Second Edition** · by Omid Zeynalpour
+
 This book helps candidates prepare for the **LPIC-3 303-300 Security** exam by covering all test objectives.
 
-**Second Edition** — a complete rewrite in simple, formal English, with custom diagrams, worked command examples, hands-on lab screenshots, a reference table and an exam-tips box at the end of every objective.
+This edition is a complete rewrite in simple, formal English, with custom diagrams, worked command examples, hands-on lab screenshots, a reference table and an exam-tips box at the end of every objective.
 
 ## Download
 
 | Format | Link |
 |---|---|
 | PDF (recommended) | [LPIC-3 Exam 303-300 Security.pdf](LPIC-3%20Exam%20303-300%20Security.pdf) |
-| Word (editable) | [LPIC-3 Exam 303-300 Security.docx](LPIC-3%20Exam%20303-300%20Security.docx) |
+| Comment / suggest edits | [Google Docs version](https://docs.google.com/document/d/1xa_ckl9OyPOMvDGUh3lGZX1IpUVZXVtYjW2_jaTI3ik/edit?usp=sharing) |
 | First Edition (archived) | [Release v1.0](../../releases/tag/v1.0) |
 
 The PDF has clickable bookmarks in the side panel and a clickable table of contents.
+
+> **Coming soon:** more practical exam exercises and hands-on labs will be added in upcoming updates.
 
 ## Contents
 
